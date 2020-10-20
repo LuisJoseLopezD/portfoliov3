@@ -11,8 +11,24 @@ body {
 	max-width: 500px;
 }
 
-.icons i:hover {
-	color: #c2255c;
+.icons .fa-js {
+	color: #f7df1e;
+}
+
+.icons .fa-php {
+	color: #56568a;
+}
+
+.icons .fa-laravel {
+	color: #ff2919;
+}
+
+.icons .fa-vuejs {
+	color: #00c180;
+}
+
+.icons .fa-wordpress {
+	color: #21759b;
 }
 
 .description-live {
