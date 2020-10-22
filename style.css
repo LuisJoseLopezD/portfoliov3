@@ -6,18 +6,19 @@ body {
 	margin: auto;
 	margin-bottom: 30px;
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 	padding: 30px;
 	max-width: 500px;
 }
-
-.icons .fa-js {
-	color: #f7df1e;
+/*
+.icons .fa-js:hover {
+	color: #ffd43b;
 }
 
-.icons .fa-php {
+.icons .fa-php:hover {
 	color: #56568a;
 }
+*/
 
 .icons .fa-laravel {
 	color: #ff2919;
