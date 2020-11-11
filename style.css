@@ -10,15 +10,14 @@ body {
 	padding: 30px;
 	max-width: 500px;
 }
-/*
-.icons .fa-js:hover {
+
+.icons .fa-js {
 	color: #ffd43b;
 }
 
-.icons .fa-php:hover {
+.icons .fa-php {
 	color: #56568a;
 }
-*/
 
 .icons .fa-laravel {
 	color: #ff2919;
