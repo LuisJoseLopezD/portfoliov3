@@ -1,10 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
 body {
-	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	font-family: 'Inter', sans-serif;
 }
 
 .icons {
 	margin: auto;
-	margin-bottom: 30px;
 	display: flex;
 	justify-content: space-around;
 	padding: 30px;
@@ -31,10 +32,23 @@ body {
 	color: #21759b;
 }
 
+.icons .fa-react {
+	color: #61DBFB;
+}
+
+.icons .fa-node-js {
+	color: #8DC94A;
+}
+
+.icons .fa-ethereum {
+	color: #627EEA;
+}
+
 .description-live {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+    flex-wrap: wrap;
 }
 
 .description-live .button-live {
@@ -70,7 +84,7 @@ footer {
 
 .flex-footer {
 	display: flex;
-	justify-content: space-around;
+	justify-content: center;
 	align-items: center;
 }
 
